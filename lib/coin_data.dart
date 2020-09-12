@@ -1,6 +1,6 @@
 const List<String> currenciesList = [
   'AUD',
-  'BR',
+  'BRL',
   'CAD',
   'CNY',
   'EUR',
